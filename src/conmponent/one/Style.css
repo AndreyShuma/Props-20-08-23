@@ -1,0 +1,15 @@
+p {
+    margin: 0;
+}
+
+.Two {
+    font-size: 16px;
+    color:black;
+    font-weight: bold;
+    max-width: 300px;
+    /* height: 200px; */
+    border: 1px solid ;
+    margin: 5px auto;
+    background-color: rgb(6, 66, 140);
+    
+}

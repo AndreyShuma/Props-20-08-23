@@ -1,0 +1,15 @@
+p {
+    margin: 0;
+}
+
+.One {
+    font-size: 16px;
+    color:black;
+    font-weight: bold;
+    max-width: 300px;
+    /* height: 200px; */
+    border: 1px solid ;
+    margin: 5px auto;
+    background-color: rgb(182, 204, 17);
+    
+}
