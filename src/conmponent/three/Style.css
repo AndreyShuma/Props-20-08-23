@@ -1,0 +1,12 @@
+p {
+    margin: 0;
+}
+
+.button {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 200;
+    width: 150px;
+    background-color: rgb(235, 12, 12);
+    
+}
