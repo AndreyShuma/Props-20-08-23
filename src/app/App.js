@@ -8,6 +8,7 @@ import Three from '../conmponent/three/Three';
 function App() {
   const [green, setGreen] = useState({});
   const [male, setMale] = useState('man');
+  let d=0;
 
   useEffect( () => {
     const data =async () => {
@@ -26,7 +27,7 @@ function App() {
   return (
     <div className="AppMy">
       <p>Привіт мене звати</p>
-      <One test={green}/>
+      <One test={green}/> 
       <p>Мої дані</p>
       <Two data={green}/>
       <br/>
